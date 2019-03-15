@@ -1,0 +1,5 @@
+aws_region = "ap-southeast-2"
+environment = "dev"
+route53_hosted_zone_id = "Z3W2UFUWCLDLYI"
+cloudfront_sub_domain = "whatnow"
+bucket_name_prefix = "viet-whatever-app"
