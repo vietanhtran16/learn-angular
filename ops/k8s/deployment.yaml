@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: angularfrontend
-        image: tranvietanh/angularfrontend:1
+        image: tranvietanh/angularfrontend:2
         ports:
         - containerPort: 5000
